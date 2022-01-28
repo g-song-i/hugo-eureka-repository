@@ -50,7 +50,7 @@ Now I'm a postgrad (actually I'm in master's course), but because I was a develo
 
 ## Skills
 
-- Programming Language
+- Programming Language  
   \+ C, C++  
   \+ Java  
   \+ Javascript  
