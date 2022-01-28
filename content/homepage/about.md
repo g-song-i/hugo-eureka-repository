@@ -46,7 +46,7 @@ I'm going on a graduate school in Soongsil university for master's degree.
 I'm researching on Cloud Native Security. I've been studying on the CNCF projects such as Kubernetes, Envoy, Falco, Opentelemetry, etc.  
 Also I'm interested in system and network security.
 
-Now I'm a postgrad (actually I'm in master's course), but because I was a developer (especially, I was a backend developer so that I was setting up some servers and databases using AWS, and also coding SSS mainly) rather than a researcher before I graduated my university. So I can handle many types of computer language.
+Now I'm a postgrad (actually I'm in master's course), but because I was a developer (especially, I was a backend developer so that I was setting up some servers and databases using AWS, and also coding SSS mainly) rather than a researcher before I graduated my university. So I can handle many kinds of computer language.
 
 ## Skills
 
@@ -59,9 +59,18 @@ Now I'm a postgrad (actually I'm in master's course), but because I was a develo
   \+ Go  
 <br/>
 
-- Container and Container Orchestration Platform
+- Linux
+<br/>
+<br/>
+
+- Container and Container Orchestration Platform  
   \+ Docker and Kubernetes  
   \+ K3s, KinD, Minikune   
+<br/>
+
+- Others  
+  \+ Engilsh (TOEIC 745)  
+  \+ Engilsh Speaking (Intermediate)
 
 ## Research Areas
 
