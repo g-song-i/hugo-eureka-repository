@@ -13,7 +13,7 @@ experiences:
 
       - AI (Deepfeke voic)  
         \+ Text-To-Speech  
-        \+ Voice Conversion, etc.
+        \+ Voice Conversion, etc.  
         \+ Docker and Kubernetes  
         \+ K3s, KinD, Microk8s, Minikube  
         \+ ServiceMesh: Envoy, Istio  
