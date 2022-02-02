@@ -48,6 +48,8 @@ Also I'm interested in system and network security.
 
 Now I'm a postgrad (actually I'm in master's course), but because I was a developer (especially, I was a backend developer so that I was setting up some servers and databases using AWS, and also coding SSS mainly) rather than a researcher before I graduated my university. So I can handle many kinds of computer language.
 
+Some contents will be posted in English or Korean. Because I want to make my blog to advertise myself, so I will post in English. And also I want korean to understand a knowledge in this field, so I will post in Korean. Because there are lack of materials related to cloud or cloud native security written in Korean, so I want to help people to understand this knowledge as much as I can.
+
 ## Skills
 
 - Programming Language  
