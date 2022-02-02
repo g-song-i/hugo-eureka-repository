@@ -20,8 +20,13 @@ hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
 # Uncomment for google analytics
-googleAnalytics: 302091713
+googleAnalytics: G-NXE14VB61W
 
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+  
 markup:
   # Do not modify markup.highlight
   highlight:
