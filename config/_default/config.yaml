@@ -22,6 +22,9 @@ defaultContentLanguageInSubdir: false
 # Uncomment for google analytics
 googleAnalytics: G-NXE14VB61W
 
+# robots.txt
+enableRobotsTXT: true
+
 sitemap:
   changefreq: daily
   filename: sitemap.xml
